@@ -42,9 +42,6 @@ HOME PAGE:
 
 ![HOME PAGE](https://user-images.githubusercontent.com/118505043/206963473-6d169def-4d54-41e8-b3c9-a5b9d946d3bc.png)
 
-OUR BLOG:
-
-[OUR BLOG PAGE](https://user-images.githubusercontent.com/118505043/206963478-02624a06-aabd-4f07-b205-8e95f68e9082.png)
 
 SERVICES PAGE:
 
