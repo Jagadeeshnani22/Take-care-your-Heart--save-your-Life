@@ -82,13 +82,12 @@ Azure Static Healthbot:
 
 ![azure  health bot ](https://user-images.githubusercontent.com/118505043/208067175-26e61adf-1ed4-438a-9dfd-d963bf5e7ee5.png)
 
+AZURE BOT HEALTH FUNCTIONALITY SCREENSHOTS:
 
-
-
-
-
-
-
+![CARDIO BOT FUNCTIONALITY1](https://user-images.githubusercontent.com/118505043/208074689-8e179e19-6815-462f-a64f-3b365effde30.png)
+![CARDIO BOT FUNCTIONALITY2](https://user-images.githubusercontent.com/118505043/208074701-b1267a88-adbd-450f-9686-5793a6057c03.png)
+![CARDIO BOT FUNCTIONALITY3](https://user-images.githubusercontent.com/118505043/208074703-2873b5ca-d1cb-4675-9f98-68ec48d99bba.png)
+![CARDIO HEALTH BOT 4](https://user-images.githubusercontent.com/118505043/208074708-3ad5dbc2-43cb-4a0c-a4c4-6af9ac520a3d.png)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
